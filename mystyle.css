@@ -3,8 +3,16 @@ background-color:red;
 
 
 }
-.col-12{
-zoom:500%;
+@media sreen and (min-width:1200px){
+{
+
+#body{
+background-color:black;
+
+}
+
+
 
 
 }
+
